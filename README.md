@@ -75,6 +75,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 ### LLM Fundamentals
 
 - What are foundation models, and how have they changed AI engineering?
+    - Answer: Explained in this video: [AI Engineering Explained: LLM, RAG, MCP, Agent, Fine-Tuning, Quantization](https://www.youtube.com/watch?v=lnfWvX66FUk)
 - What is a Large Language Model (LLM), and how does it work?
 - What are Transformer Models and how do they work?
 - What are the key components of a Transformer model?
@@ -84,6 +85,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
     - Answer: [Byte Pair Encoding](https://www.linkedin.com/posts/pallavi-shekhar_ai-llm-machinelearning-activity-7439218251714166784-XA4O)
 - Explain WordPiece and SentencePiece.
 - What is positional encoding, and why is it needed in Transformers?
+    - Answer: [Positional Embeddings in LLMs](https://outcomeschool.substack.com/p/positional-embeddings-in-llms)
 - What is causal masking?
     - Answer: [Causal Masking in Attention](https://outcomeschool.com/blog/causal-masking-in-attention)
 - What is self-attention, and how does it work in Transformers?
