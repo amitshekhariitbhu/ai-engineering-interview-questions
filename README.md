@@ -107,7 +107,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - What is the difference between encoder-only, decoder-only, and encoder-decoder Transformer architectures?
     - Answer: [Encoder-Decoder Architecture Explained](https://x.com/amitiitbhu/status/1925410667043201409)
 - What is KV cache, and how does it speed up inference?
-    - Answer: [KV Cache (Key-Value Cache)](https://www.linkedin.com/posts/amit-shekhar-iitbhu_kv-cache-key-value-cache-is-an-optimization-activity-7441373162686246912-7M_c)
+    - Answer: [What is KV Cache in LLMs?](https://x.com/amitiitbhu/status/2037413998279491927)
 - Explain the difference between autoregressive and masked language modeling.
 - What is model distillation, and how is it used with LLMs?
 - What is Mixture of Experts (MoE), and how does it work in models like Mixtral?
@@ -124,6 +124,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - Your LLM coding assistant generates outdated code using deprecated libraries. How do you fix it?
 - Your tokenizer splits important domain terms into meaningless subword pieces. How do you fix it?
 - Your Transformer's KV cache grows too large during long sequence generation. How do you manage memory?
+    - Answer: [Paged Attention](https://www.linkedin.com/posts/amit-shekhar-iitbhu_llm-ai-ml-share-7438536684444553216-kJOR/)
 - Your Transformer runs out of memory on long documents due to quadratic self-attention. How do you scale it?
 - Your distilled student model fails on the complex reasoning that the teacher model handled. How do you close the gap?
 - After RLHF alignment, your LLM became safer but lost capability on hard tasks. How do you manage the alignment tax?
@@ -514,7 +515,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - How does continuous batching improve LLM inference throughput?
 - What is speculative decoding, and how does it speed up inference?
 - What is KV cache, and how do you manage memory for it?
-    - Answer: [KV Cache (Key-Value Cache)](https://www.linkedin.com/posts/amit-shekhar-iitbhu_kv-cache-key-value-cache-is-an-optimization-activity-7441373162686246912-7M_c)
+    - Answer: [What is KV Cache in LLMs?](https://x.com/amitiitbhu/status/2037413998279491927)
 - What are Paged Attention and vLLM?
     - Answer: [Paged Attention](https://www.linkedin.com/posts/amit-shekhar-iitbhu_llm-ai-ml-share-7438536684444553216-kJOR/)
 - How do you optimize inference for edge and mobile deployment?
