@@ -91,12 +91,12 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
     - Answer: [Positional Embeddings in LLMs](https://outcomeschool.substack.com/p/positional-embeddings-in-llms)
 - What are embeddings?
     - Answer: [Embeddings in Machine Learning](https://www.youtube.com/watch?v=LedXW6xl21s)
+- Explain the Query(Q), Key(K), and Value(V) in attention.
+    - Answer: [Math behind Attention - Q, K, and V](https://outcomeschool.com/blog/math-behind-attention-qkv)
+- What is self-attention, and how does it work in Transformers?
+    - Answer: [Math behind Attention - Q, K, and V](https://outcomeschool.com/blog/math-behind-attention-qkv)
 - What is causal masking?
     - Answer: [Causal Masking in Attention](https://outcomeschool.com/blog/causal-masking-in-attention)
-- What is self-attention, and how does it work in Transformers?
-    - Answer: [Understanding Attention Mechanism in LLMs](https://x.com/amitiitbhu/status/2036655716497596471)
-- Explain the Query(Q), Key(K), and Value(V) in attention.
-    - Answer: [Understanding Attention Mechanism in LLMs](https://x.com/amitiitbhu/status/2036655716497596471)
 - What are multi-head attention mechanisms? Why use multiple attention heads?
 - What is the context window in LLMs, and why does it matter?
     - Answer: [Context Window in LLMs](https://www.linkedin.com/posts/amit-shekhar-iitbhu_the-context-window-is-the-llms-working-memory-activity-7437754426175672320-MH9c)
