@@ -81,7 +81,9 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - Inside ChatGPT: What Happens After You Hit Enter?
     - Answer: [Inside ChatGPT: What Happens After You Hit Enter](https://outcomeschool.substack.com/p/inside-chatgpt-what-happens-after) 
 - What is the Transformer architecture and how does it work?
+    - Answer: [Decoding Transformer Architecture](https://outcomeschool.com/blog/decoding-transformer-architecture)
 - What are the key components of the Transformer architecture?
+    - Answer: [Decoding Transformer Architecture](https://outcomeschool.com/blog/decoding-transformer-architecture)
 - What is tokenization in LLMs?
     - Answer: [Tokenization in Large Language Models (LLMs)](https://www.youtube.com/watch?v=sK2s9I84EVI)
 - Explain BPE (Byte Pair Encoding).
@@ -100,6 +102,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - What is causal masking?
     - Answer: [Causal Masking in Attention](https://outcomeschool.com/blog/causal-masking-in-attention)
 - What are multi-head attention mechanisms? Why use multiple attention heads?
+    - Answer: [Decoding Transformer Architecture](https://outcomeschool.com/blog/decoding-transformer-architecture)
 - What is the context window in LLMs, and why does it matter?
     - Answer: [Context Window in LLMs](https://www.linkedin.com/posts/amit-shekhar-iitbhu_the-context-window-is-the-llms-working-memory-activity-7437754426175672320-MH9c)
 - What is temperature in the context of LLMs, and how does it affect output?
@@ -111,7 +114,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
     - Answer: [Skip connections (residual connections) in Transformers](https://www.linkedin.com/posts/amit-shekhar-iitbhu_machinelearning-llm-deeplearning-share-7414239846707392512-pQdQ)
 - What is the difference between open-source and closed-source LLMs? When would you choose one over the other?
 - What is the difference between encoder-only, decoder-only, and encoder-decoder Transformer architectures?
-    - Answer: [Encoder-Decoder Architecture Explained](https://x.com/amitiitbhu/status/1925410667043201409)
+    - Answer: [Decoding Transformer Architecture](https://outcomeschool.com/blog/decoding-transformer-architecture)
 - What is KV cache, and how does it speed up inference?
     - Answer: [What is KV Cache in LLMs?](https://outcomeschool.com/blog/kv-cache-in-llms)
 - Explain the difference between autoregressive and masked language modeling.
