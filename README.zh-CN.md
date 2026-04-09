@@ -45,7 +45,7 @@
 - [多模态 AI](#multi-modal-ai-1)
 - [AI 基础设施与可扩展性](#ai-infrastructure-与可扩展性)
 - [编码与工程实践](#coding-与工程实践)
-- [行为与情境面试题](#behavioral-与情景题)
+- [行为面试与情景题](#behavioral-与情景题)
 
 ### 由 [Outcome School](https://outcomeschool.com) 创始人 **Amit Shekhar** 编撰与维护
 
@@ -81,7 +81,7 @@
 - 微调（Fine-tuning）
 - 量化（Quantization）
 
-了解LLM、RAG、MCP、Agent、微调与量化，参见：[AI Engineering Explained: LLM, RAG, MCP, Agent, Fine-Tuning, Quantization](https://www.youtube.com/watch?v=lnfWvX66FUk)
+了解 LLM、RAG、MCP、Agent、微调与量化，参见：[AI Engineering Explained: LLM, RAG, MCP, Agent, Fine-Tuning, Quantization](https://www.youtube.com/watch?v=lnfWvX66FUk)
 
 ### LLM 基础
 
@@ -602,8 +602,8 @@
 - 描述你在 AI 项目中与跨职能团队协作的经验。
 - 未来三到五年，你认为 AI 工程将走向何方？
 - 你为何对这份 AI 岗位感兴趣？
-- 你的上级希望上线一个在边界案例中幻觉率达 15% 的人工智能功能。你将如何向他说明风险？
-- 一位不懂技术的上级询问你的 AI 为说明无法达到 100% 的准确率。你如何解释大型语言模型（LLM）的局限性？
+- 你的产品经理希望上线一个在边界案例中幻觉率达 15% 的人工智能功能。你将如何向他说明风险？
+- 一位不懂技术的高管询问你的 AI 为什么无法达到 100% 的准确率。你如何解释大型语言模型（LLM）的局限性？
 - 需在复杂度更高的智能体系统（基准高 15%）与更易维护的简单 RAG 流水线之间选择，你会如何选择？
 
 ### License
