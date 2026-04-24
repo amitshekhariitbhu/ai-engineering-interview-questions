@@ -297,14 +297,17 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - How do you evaluate a fine-tuned model's performance?
 - What is synthetic data generation, and how do you use it for fine-tuning?
 - What are the key hyperparameters for fine-tuning (learning rate, epochs, batch size, LoRA rank)?
+    - Answer: [LoRA - Low-Rank Adaptation of LLMs](https://outcomeschool.com/blog/lora-low-rank-adaptation-of-llms)
 - How do you fine-tune a model for a specific domain (legal, medical, finance)?
 - What is continual pre-training, and when would you use it?
 - How do you merge multiple LoRA adapters?
+    - Answer: [LoRA - Low-Rank Adaptation of LLMs](https://outcomeschool.com/blog/lora-low-rank-adaptation-of-llms)
 - What is the difference between SFT (Supervised Fine-Tuning) and alignment training?
 - What is RLAIF (RL from AI Feedback), and how does it differ from RLHF?
 - What is knowledge distillation for fine-tuning, and what are the legal considerations?
 - Your fine-tuned LLM produces factually wrong outputs due to training data quality issues. How do you fix it?
 - You must choose between LoRA and full fine-tuning for a domain-specific assistant. How do you decide?
+    - Answer: [LoRA - Low-Rank Adaptation of LLMs](https://outcomeschool.com/blog/lora-low-rank-adaptation-of-llms)
 - Your fine-tuned model memorized training data verbatim instead of learning patterns. How do you fix overfitting?
 - Your fine-tuned LLM forgot its general capabilities after domain-specific fine-tuning. How do you fix catastrophic forgetting?
 - Your RLHF preference data has low annotator agreement. How do you ensure data quality?
