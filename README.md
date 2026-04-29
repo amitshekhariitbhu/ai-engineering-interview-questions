@@ -250,6 +250,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - How do you design and define tools for an AI agent?
     - Answer: Explained in this video: [AI Engineering Explained: LLM, RAG, MCP, Agent, Fine-Tuning, Quantization](https://www.youtube.com/watch?v=lnfWvX66FUk)
 - What is the difference between single-agent and multi-agent systems?
+    - Answer: [Multi-Agent Systems](https://outcomeschool.com/blog/multi-agent-systems)
 - What is Model Context Protocol (MCP), and how does it standardize tool integration?
     - Answer: Explained in this video: [AI Engineering Explained: LLM, RAG, MCP, Agent, Fine-Tuning, Quantization](https://www.youtube.com/watch?v=lnfWvX66FUk)
 - What are the different types of agent memory (short-term, long-term, episodic)?
@@ -379,6 +380,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - Design an AI resume screening system that handles 100K applications per week.
 - Design an AI voice assistant architecture.
 - Design a multi-agent workflow system where agents collaborate on complex tasks.
+    - Answer: [Multi-Agent Systems](https://outcomeschool.com/blog/multi-agent-systems)
 - Design a real-time AI transcription system for concurrent audio streams.
 - Design an AI-powered live streaming content moderation system.
 
@@ -587,6 +589,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - Write code to detect prompt injection attempts in user inputs.
 - Implement an LLM output guardrails system that checks for off-topic responses and PII leakage.
 - Build a multi-agent system where agents have different roles and collaborate on a task.
+    - Answer: [Multi-Agent Systems](https://outcomeschool.com/blog/multi-agent-systems)
 
 ### Behavioral and Scenario-Based Questions
 
