@@ -165,6 +165,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - Explain self-consistency prompting and how it improves reasoning.
 - What is tree-of-thought prompting?
 - What is ReAct (Reasoning + Acting) prompting, and how does it work?
+    - Answer: [ReAct Agent](https://outcomeschool.com/blog/react-agent)
 - What is a system prompt, and how does it influence model behavior?
 - How do you structure prompts for consistent structured output (JSON, XML)?
 - What is prompt injection, and how do you defend against it?
@@ -244,6 +245,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - Harness Engineering in AI
     - Answer: [Harness Engineering in AI](https://outcomeschool.com/blog/harness-engineering-in-ai)
 - Explain the ReAct (Reasoning + Acting) agent architecture.
+    - Answer: [ReAct Agent](https://outcomeschool.com/blog/react-agent)
 - What is the Plan-and-Execute agent pattern?
 - What is tool use (function calling) in LLMs, and how does it enable agents?
     - Answer: Explained in this video: [AI Engineering Explained: LLM, RAG, MCP, Agent, Fine-Tuning, Quantization](https://www.youtube.com/watch?v=lnfWvX66FUk)
