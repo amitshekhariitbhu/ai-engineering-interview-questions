@@ -211,7 +211,8 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - What is the "lost in the middle" problem in RAG systems?
 - How do you evaluate a RAG system? Explain faithfulness, relevance, and context precision/recall.
 - Explain Self-RAG. How does the model decide when to retrieve?
-- What is Graph RAG, and when would you use it over traditional RAG?
+- What is GraphRAG, and when would you use it over traditional RAG?
+    - Answer: [GraphRAG](https://outcomeschool.com/blog/graphrag)
 - How do you handle structured data (tables, SQL databases) in a RAG pipeline?
 - What are the common failure modes of RAG systems, and how do you debug them?
 - How do you handle document updates and maintain freshness in a RAG system?
