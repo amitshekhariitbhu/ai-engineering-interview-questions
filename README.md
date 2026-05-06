@@ -549,6 +549,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - What is pipeline parallelism?
 - How does continuous batching improve LLM inference throughput?
 - What is speculative decoding, and how does it speed up inference?
+    - Answer: [Speculative Decoding](https://outcomeschool.com/blog/speculative-decoding)
 - What is KV cache, and how do you manage memory for it?
     - Answer: [What is KV Cache in LLMs?](https://outcomeschool.com/blog/kv-cache-in-llms)
 - What is Paged Attention?
