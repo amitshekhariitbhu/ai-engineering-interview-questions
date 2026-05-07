@@ -268,6 +268,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - What is the human-in-the-loop pattern for agents, and when is it needed?
 - How do you implement guardrails for AI agents to prevent harmful actions?
 - What is agent reflection, and how does it improve agent performance?
+    - Answer: [Reflection Agent](https://outcomeschool.com/blog/reflection-agent)
 - What is the difference between code-generating agents and tool-calling agents?
 - How do you handle multi-modal inputs and outputs in agentic systems?
 - How do you implement state management in complex agent workflows?
