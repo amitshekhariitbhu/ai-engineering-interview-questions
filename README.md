@@ -4,6 +4,8 @@
 
 # AI Engineering Interview Questions and Answers
 
+**Languages:** [English](README.md) | [简体中文](translations/README.zh-CN.md)
+
 > AI Engineering Interview Questions and Answers - Your Cheat Sheet For AI Engineering Interviews
 > 
 > These interview questions and answers are helpful for roles such as:
