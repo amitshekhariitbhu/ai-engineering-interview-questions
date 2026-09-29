@@ -830,6 +830,8 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
   - Answer: [How does a GPU work for Deep Learning?](https://outcomeschool.com/blog/how-does-a-gpu-work-for-deep-learning)
 - How does a GPU work for Deep Learning?
   - Answer: [How does a GPU work for Deep Learning?](https://outcomeschool.com/blog/how-does-a-gpu-work-for-deep-learning)
+- How do CUDA Kernels work?
+  - Answer: [How do CUDA Kernels work?](https://outcomeschool.com/blog/how-do-cuda-kernels-work)
 - How does a Google TPU work?
   - Answer: [How does a Google TPU work?](https://outcomeschool.com/blog/how-does-a-google-tpu-work)
 - How does an LPU work?
