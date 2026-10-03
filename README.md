@@ -89,7 +89,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - Walk me through what happens, step by step, in one forward pass of a decoder-only Transformer.
   - Answer: [Decoding Transformer Architecture](https://outcomeschool.com/blog/decoding-transformer-architecture)
 - What is tokenization in LLMs?
-  - Answer: [Tokenization in Large Language Models (LLMs)](https://www.youtube.com/watch?v=sK2s9I84EVI)
+  - Answer: [Tokenization in LLMs](https://outcomeschool.com/blog/tokenization-in-llms) and [Tokenization in Large Language Models (LLMs)](https://www.youtube.com/watch?v=sK2s9I84EVI)
 - Explain BPE (Byte Pair Encoding).
   - Answer: [Byte Pair Encoding](https://outcomeschool.com/blog/bpe-in-llms)
 - Explain WordPiece and SentencePiece.
