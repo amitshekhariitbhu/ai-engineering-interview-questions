@@ -642,6 +642,8 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
   - Answer: [How does TensorRT-LLM work?](https://outcomeschool.com/blog/how-does-tensorrt-llm-work)
 - How does llama.cpp run LLMs on everyday hardware?
   - Answer: [How does llama.cpp run LLMs on everyday hardware?](https://outcomeschool.com/blog/how-does-llama-cpp-run-llms-on-everyday-hardware)
+- How does Ollama work?
+  - Answer: [How does Ollama work?](https://outcomeschool.com/blog/how-does-ollama-work)
 - When would you choose vLLM vs SGLang vs TensorRT-LLM?
   - Answer: [How does vLLM work?](https://outcomeschool.com/blog/how-does-vllm-work), [How does SGLang work?](https://outcomeschool.com/blog/how-does-sglang-work) and [How does TensorRT-LLM work?](https://outcomeschool.com/blog/how-does-tensorrt-llm-work)
 - What are the key SLAs and metrics for production AI systems (latency, throughput, availability)?
