@@ -273,6 +273,8 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
   - Answer: [Chunking Strategies for RAG](https://outcomeschool.com/blog/chunking-strategies-for-rag)
 - Compare fixed-size chunking, semantic chunking, and recursive chunking.
   - Answer: [Chunking Strategies for RAG](https://outcomeschool.com/blog/chunking-strategies-for-rag)
+- What is Contextual Retrieval, and how does it improve RAG?
+  - Answer: [How does Contextual Retrieval work?](https://outcomeschool.com/blog/how-does-contextual-retrieval-work)
 - What are embedding models, and how do they convert text to vectors?
   - Answer: [What are Embeddings?](https://outcomeschool.com/blog/what-are-embeddings)
 - How do you choose an embedding model for your RAG system?
