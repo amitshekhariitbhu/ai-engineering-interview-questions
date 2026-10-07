@@ -229,6 +229,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
   - Answer: [How does Chain-of-Thought (CoT) Prompting work?](https://outcomeschool.com/blog/how-does-chain-of-thought-prompting-work)
 - Explain self-consistency prompting and how it improves reasoning.
 - What is tree-of-thought prompting?
+  - Answer: [How does Tree of Thoughts work?](https://outcomeschool.com/blog/how-does-tree-of-thoughts-work)
 - What is ReAct (Reasoning + Acting) prompting, and how does it work?
   - Answer: [ReAct Agent](https://outcomeschool.com/blog/react-agent)
 - What is a system prompt, and how does it influence model behavior?
