@@ -312,7 +312,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - Long context windows keep getting cheaper. When should you use retrieval (RAG) vs putting everything in the context window?
   - Answer: [The Lost in the Middle Problem in LLMs](https://outcomeschool.com/blog/lost-in-the-middle-problem-in-llms)
 - What is query transformation in RAG (HyDE, query decomposition, step-back prompting)?
-  - Answer: [How does HyDE work in RAG?](https://outcomeschool.com/blog/how-does-hyde-work)
+  - Answer: [How does HyDE work in RAG?](https://outcomeschool.com/blog/how-does-hyde-work) and [How do Query Rewriting and Multi-Query Retrieval work?](https://outcomeschool.com/blog/how-do-query-rewriting-and-multi-query-retrieval-work)
 - How do you implement citation and source attribution in RAG?
 - How do you scale a RAG system to millions of documents?
   - Answer: [How does Approximate Nearest Neighbor (ANN) search work?](https://outcomeschool.com/blog/how-does-approximate-nearest-neighbor-ann-search-work)
