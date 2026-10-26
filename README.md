@@ -793,7 +793,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - What are Multimodal AI models, and how do they process different types of data?
   - Answer: [Multimodal AI](https://outcomeschool.com/blog/multimodal-ai)
 - How do vision-language models process images?
-  - Answer: [Multimodal AI](https://outcomeschool.com/blog/multimodal-ai)
+  - Answer: [Multimodal AI](https://outcomeschool.com/blog/multimodal-ai) and [How does a Vision-Language Model (VLM) work?](https://outcomeschool.com/blog/vision-language-model-vlm)
 - How do Image Embeddings work?
   - Answer: [How do Image Embeddings work?](https://outcomeschool.com/blog/how-do-image-embeddings-work)
 - How does CLIP work, and why is it important for multi-modal AI?
