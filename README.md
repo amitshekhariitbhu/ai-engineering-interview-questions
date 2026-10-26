@@ -779,6 +779,8 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - What is model card documentation, and why is it important?
 - How do you handle misuse and abuse of AI systems in production?
 - What is differential privacy, and how can it be applied during model training?
+- What is federated learning, and how does it protect data privacy?
+  - Answer: [How does Federated Learning train without raw data?](https://outcomeschool.com/blog/federated-learning)
 - How would you design an AI incident response plan?
 - What is the NIST AI Risk Management Framework (AI RMF)?
 - Your healthcare chatbot gives medical diagnoses it should not make. How do you add safety guardrails?
