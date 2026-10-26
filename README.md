@@ -227,7 +227,9 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - What is prompt engineering, and why is it critical for AI applications?
   - Answer: [How does Prompt Engineering work?](https://outcomeschool.com/blog/prompt-engineering)
 - Explain zero-shot, one-shot, and few-shot prompting with examples.
-  - Answer: [Explain zero-shot, one-shot, and few-shot prompting with examples](https://www.linkedin.com/posts/pallavi-shekhar_llm-prompting-ai-activity-7441801012472078336-JsHr)
+  - Answer: [Explain zero-shot, one-shot, and few-shot prompting with examples](https://www.linkedin.com/posts/pallavi-shekhar_llm-prompting-ai-activity-7441801012472078336-JsHr) and [How does In-Context Learning work?](https://outcomeschool.com/blog/in-context-learning)
+- What is in-context learning, and how does it differ from fine-tuning?
+  - Answer: [How does In-Context Learning work?](https://outcomeschool.com/blog/in-context-learning)
 - What is chain-of-thought (CoT) prompting, and when should you use it?
   - Answer: [How does Chain-of-Thought (CoT) Prompting work?](https://outcomeschool.com/blog/how-does-chain-of-thought-prompting-work)
 - Explain self-consistency prompting and how it improves reasoning.
