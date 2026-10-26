@@ -608,7 +608,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - Explain the AI product lifecycle from ideation to production.
 - What is LLMOps, and how does it differ from traditional MLOps?
 - How do you serve LLMs in production?
-  - Answer: [How does vLLM work?](https://outcomeschool.com/blog/how-does-vllm-work) and [LLM Inference Optimization](https://outcomeschool.com/blog/llm-inference-optimization)
+  - Answer: [How does vLLM work?](https://outcomeschool.com/blog/how-does-vllm-work), [LLM Inference Optimization](https://outcomeschool.com/blog/llm-inference-optimization) and [How does Model Serving work?](https://outcomeschool.com/blog/model-serving)
 - What is model quantization?
   - Answer: Explained in this video: [AI Engineering Explained: LLM, RAG, MCP, Agent, Fine-Tuning, Quantization](https://www.youtube.com/watch?v=lnfWvX66FUk) and [How does Model Quantization work?](https://outcomeschool.com/blog/how-does-model-quantization-work)
 - Explain post-training quantization (PTQ) vs quantization-aware training (QAT). What breaks when you push weights to 2-4 bits?
