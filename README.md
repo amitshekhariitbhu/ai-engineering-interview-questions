@@ -394,6 +394,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - How do you manage token consumption and cost in long-running agent workflows?
   - Answer: [How does context compaction work?](https://outcomeschool.com/blog/how-does-context-compaction-work) and [How would you reduce the token consumption?](https://www.linkedin.com/posts/pallavi-shekhar_ai-aiagents-machinelearning-activity-7439550125015994368-LTmE)
 - What is the human-in-the-loop pattern for agents, and when is it needed?
+  - Answer: [How do Human-in-the-Loop agents work?](https://outcomeschool.com/blog/human-in-the-loop-agents)
 - How do you implement guardrails for AI agents to prevent harmful actions?
   - Answer: [How do LLM guardrails work?](https://outcomeschool.com/blog/how-do-llm-guardrails-work)
 - What is agent reflection, and how does it improve agent performance?
