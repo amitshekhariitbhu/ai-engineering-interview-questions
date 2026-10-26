@@ -927,6 +927,8 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - What is tensor parallelism, and how does it help serve large models?
 - What is pipeline parallelism?
   - Answer: [How does distributed training work?](https://outcomeschool.com/blog/distributed-training)
+- What is mixed precision training, and why is it used?
+  - Answer: [How does Mixed Precision Training work?](https://outcomeschool.com/blog/mixed-precision-training)
 - How does continuous batching improve LLM inference throughput?
   - Answer: [Continuous Batching in LLMs](https://outcomeschool.com/blog/continuous-batching-in-llms)
 - What is speculative decoding, and how does it speed up inference?
