@@ -755,6 +755,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - What are the key data privacy considerations (GDPR, CCPA) when building AI applications?
 - How do you handle PII in LLM inputs and outputs?
 - What is explainability in AI, and why does it matter?
+  - Answer: [What is Explainable AI?](https://outcomeschool.com/blog/explainable-ai-xai)
 - What is the difference between interpretability and explainability?
 - What is mechanistic interpretability, and why do AI labs invest in it?
 - How do you build trust with users in AI-powered applications?
