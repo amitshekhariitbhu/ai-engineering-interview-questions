@@ -864,6 +864,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - How does an LPU work?
   - Answer: [How does an LPU work?](https://outcomeschool.com/blog/how-does-an-lpu-work)
 - Estimate the GPU memory needed to serve a 70B model (weights, KV cache, activations). Does it fit on a single 80 GB GPU?
+  - Answer: [How does an LLM use GPU memory?](https://outcomeschool.com/blog/llm-gpu-memory)
 - Do the roofline math: how many tokens/sec can one H100 produce for a 70B model at batch size 1?
 - What is model parallelism vs data parallelism in distributed training?
 - What is tensor parallelism, and how does it help serve large models?
