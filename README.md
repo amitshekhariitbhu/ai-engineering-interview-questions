@@ -111,6 +111,8 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
   - Answer: [Multi-Head Attention in Transformers](https://outcomeschool.com/blog/multi-head-attention-in-transformers)
 - What are Feed-Forward Networks in LLMs?
   - Answer: [Feed-Forward Networks in LLMs](https://outcomeschool.com/blog/feed-forward-networks-in-llms)
+- What is SwiGLU, and why do modern LLMs use it?
+  - Answer: [How does SwiGLU work?](https://outcomeschool.com/blog/swiglu)
 - What is Generative AI?
   - Answer: [What is Generative AI?](https://outcomeschool.com/blog/what-is-generative-ai)
 - What is the context window in LLMs, and why does it matter?
