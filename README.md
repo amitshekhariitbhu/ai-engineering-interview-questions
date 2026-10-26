@@ -288,6 +288,8 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - How do you choose an embedding model for your RAG system?
 - Explain Agentic RAG.
   - Answer: [Agentic RAG](https://outcomeschool.com/blog/agentic-rag)
+- What is BM25, and how does it work?
+  - Answer: [How does BM25 work?](https://outcomeschool.com/blog/bm25)
 - What is hybrid search, and why is it better than pure vector search?
   - Answer: [How does Hybrid Search work?](https://outcomeschool.com/blog/how-does-hybrid-search-work)
 - What is re-ranking, and how does it improve RAG retrieval quality?
