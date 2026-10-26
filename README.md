@@ -483,7 +483,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
   - Answer: [What is RLAIF? Reinforcement Learning from AI Feedback Explained](https://outcomeschool.com/blog/reinforcement-learning-from-ai-feedback-rlaif)
 - What is Constitutional AI, and how does it differ from RLHF?
 - What is RLVR (Reinforcement Learning with Verifiable Rewards), and when does it beat a learned reward model?
-  - Answer: [Group Relative Policy Optimization (GRPO)](https://outcomeschool.com/blog/group-relative-policy-optimization-grpo)
+  - Answer: [Group Relative Policy Optimization (GRPO)](https://outcomeschool.com/blog/group-relative-policy-optimization-grpo) and [What is Reinforcement Learning with Verifiable Rewards (RLVR)?](https://outcomeschool.com/blog/reinforcement-learning-with-verifiable-rewards-rlvr)
 - What is knowledge distillation for fine-tuning, and what are the legal considerations?
   - Answer: [How does Knowledge Distillation work?](https://outcomeschool.com/blog/how-does-knowledge-distillation-work)
 - Your fine-tuned LLM produces factually wrong outputs due to training data quality issues. How do you fix it?
