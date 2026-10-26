@@ -836,6 +836,8 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
   - Answer: [How do WebRTC and WebSocket differ for voice AI agents?](https://outcomeschool.com/blog/webrtc-vs-websocket-for-voice-ai)
 - What is the difference between SIP and RTP?
   - Answer: [How do SIP and RTP carry a phone call to a voice agent?](https://outcomeschool.com/blog/sip-and-rtp)
+- Why does speech recognition perform worse on phone calls, and how do you improve it?
+  - Answer: [Why does phone audio make speech recognition worse?](https://outcomeschool.com/blog/phone-audio-and-speech-recognition)
 - What is multi-modal RAG, and how does it differ from text-only RAG?
 - How do you build a system that processes both images and text?
   - Answer: [Multimodal AI](https://outcomeschool.com/blog/multimodal-ai)
