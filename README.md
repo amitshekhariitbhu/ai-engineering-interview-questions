@@ -239,7 +239,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - What is prompt injection, and how do you defend against it?
   - Answer: [Prompt Injection in LLMs](https://outcomeschool.com/blog/prompt-injection-in-llms)
 - What is jailbreaking in LLMs, and what are common jailbreak techniques?
-  - Answer: [Prompt Injection in LLMs](https://outcomeschool.com/blog/prompt-injection-in-llms)
+  - Answer: [Prompt Injection in LLMs](https://outcomeschool.com/blog/prompt-injection-in-llms) and [What is jailbreaking in LLMs?](https://outcomeschool.com/blog/jailbreaking-in-llms)
 - How do you optimize prompts for cost and latency?
 - What is the difference between prompt engineering and prompt tuning?
 - What is a prompt template, and how do you design one for production use?
