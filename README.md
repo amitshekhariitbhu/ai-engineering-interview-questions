@@ -830,6 +830,8 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
   - Answer: [Design a Real-Time Voice AI Agent](https://outcomeschool.com/blog/design-a-real-time-voice-ai-agent) and [Cascaded vs Speech-to-Speech: How to choose the right voice agent architecture?](https://outcomeschool.com/blog/cascaded-vs-speech-to-speech)
 - What is the difference between half-duplex and full-duplex voice agents?
   - Answer: [How do half-duplex and full-duplex voice agents differ?](https://outcomeschool.com/blog/half-duplex-vs-full-duplex-voice-agents)
+- WebRTC vs WebSocket for a voice agent: which would you use, and why?
+  - Answer: [How do WebRTC and WebSocket differ for voice AI agents?](https://outcomeschool.com/blog/webrtc-vs-websocket-for-voice-ai)
 - What is multi-modal RAG, and how does it differ from text-only RAG?
 - How do you build a system that processes both images and text?
   - Answer: [Multimodal AI](https://outcomeschool.com/blog/multimodal-ai)
