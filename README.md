@@ -225,6 +225,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 ### Prompt Engineering
 
 - What is prompt engineering, and why is it critical for AI applications?
+  - Answer: [How does Prompt Engineering work?](https://outcomeschool.com/blog/prompt-engineering)
 - Explain zero-shot, one-shot, and few-shot prompting with examples.
   - Answer: [Explain zero-shot, one-shot, and few-shot prompting with examples](https://www.linkedin.com/posts/pallavi-shekhar_llm-prompting-ai-activity-7441801012472078336-JsHr)
 - What is chain-of-thought (CoT) prompting, and when should you use it?
