@@ -635,6 +635,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - What is CI/CD for AI applications, and how does it differ from traditional CI/CD?
 - How do you version and manage prompts in production?
 - What is model versioning, and how do you handle model rollbacks?
+  - Answer: [How does a Model Registry work?](https://outcomeschool.com/blog/model-registry)
 - How do you implement rate limiting and throttling for LLM APIs?
 - How do you handle model updates and migrations without downtime?
 - What is the role of feature flags in AI deployments?
