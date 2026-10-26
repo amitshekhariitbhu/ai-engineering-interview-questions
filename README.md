@@ -884,8 +884,10 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
   - Answer: [How does an LLM use GPU memory?](https://outcomeschool.com/blog/llm-gpu-memory)
 - Do the roofline math: how many tokens/sec can one H100 produce for a 70B model at batch size 1?
 - What is model parallelism vs data parallelism in distributed training?
+  - Answer: [How does distributed training work?](https://outcomeschool.com/blog/distributed-training)
 - What is tensor parallelism, and how does it help serve large models?
 - What is pipeline parallelism?
+  - Answer: [How does distributed training work?](https://outcomeschool.com/blog/distributed-training)
 - How does continuous batching improve LLM inference throughput?
   - Answer: [Continuous Batching in LLMs](https://outcomeschool.com/blog/continuous-batching-in-llms)
 - What is speculative decoding, and how does it speed up inference?
