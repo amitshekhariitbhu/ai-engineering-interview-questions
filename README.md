@@ -556,6 +556,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - Design Memory for a Personal AI Assistant
   - Answer: [AI Agent Memory](https://outcomeschool.com/blog/ai-agent-memory) and [How does ChatGPT remember you?](https://outcomeschool.com/blog/how-does-chatgpt-remember-you)
 - Design a Deep Research Agent
+  - Answer: [How does a deep research agent work?](https://outcomeschool.com/blog/deep-research-agent)
 - Design a Multi-Agent Customer Support System
   - Answer: [Multi-Agent Systems](https://outcomeschool.com/blog/multi-agent-systems)
 - Design an On-Device AI Assistant
