@@ -267,11 +267,11 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 ### Retrieval-Augmented Generation (RAG)
 
 - What is Retrieval-Augmented Generation (RAG), and why is it important?
-  - Answer: Explained in this video: [AI Engineering Explained: LLM, RAG, MCP, Agent, Fine-Tuning, Quantization](https://www.youtube.com/watch?v=lnfWvX66FUk)
+  - Answer: Explained in this video: [AI Engineering Explained: LLM, RAG, MCP, Agent, Fine-Tuning, Quantization](https://www.youtube.com/watch?v=lnfWvX66FUk) and [How does RAG work?](https://outcomeschool.com/blog/retrieval-augmented-generation-rag)
 - Explain the architecture of a basic RAG system.
-  - Answer: Explained in this video: [AI Engineering Explained: LLM, RAG, MCP, Agent, Fine-Tuning, Quantization](https://www.youtube.com/watch?v=lnfWvX66FUk)
+  - Answer: Explained in this video: [AI Engineering Explained: LLM, RAG, MCP, Agent, Fine-Tuning, Quantization](https://www.youtube.com/watch?v=lnfWvX66FUk) and [How does RAG work?](https://outcomeschool.com/blog/retrieval-augmented-generation-rag)
 - What are the key components of a RAG pipeline?
-  - Answer: Explained in this video: [AI Engineering Explained: LLM, RAG, MCP, Agent, Fine-Tuning, Quantization](https://www.youtube.com/watch?v=lnfWvX66FUk)
+  - Answer: Explained in this video: [AI Engineering Explained: LLM, RAG, MCP, Agent, Fine-Tuning, Quantization](https://www.youtube.com/watch?v=lnfWvX66FUk) and [How does RAG work?](https://outcomeschool.com/blog/retrieval-augmented-generation-rag)
 - What are chunking strategies, and how do you choose the right chunk size?
   - Answer: [Chunking Strategies for RAG](https://outcomeschool.com/blog/chunking-strategies-for-rag)
 - Compare fixed-size chunking, semantic chunking, and recursive chunking.
