@@ -175,6 +175,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - What are scaling laws (Chinchilla), and how do they guide model size vs training data decisions?
   - Answer: [What are the Chinchilla scaling laws?](https://outcomeschool.com/blog/chinchilla-scaling-laws)
 - Your LLM keeps ignoring your instructions. How do you make it follow structured output formats?
+  - Answer: [How does Constrained Decoding work?](https://outcomeschool.com/blog/constrained-decoding)
 - Your LLM-powered tool hits the context window limit on long documents. How do you handle it?
 - Your LLM does not admit when it does not know the answer. How do you make it say "I don't know"?
 - Your LLM generates responses that are too verbose. How do you control response length?
@@ -674,7 +675,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
   - Answer: [Cloud vs On-Device Model Deployment](https://outcomeschool.com/blog/cloud-vs-on-device-model-deployment)
 - How do you implement fallback strategies when the primary model is unavailable or rate-limited?
 - How do you implement structured output from LLMs reliably in production?
-  - Answer: [How does Function Calling work in LLMs?](https://outcomeschool.com/blog/how-does-function-calling-work-in-llms)
+  - Answer: [How does Function Calling work in LLMs?](https://outcomeschool.com/blog/how-does-function-calling-work-in-llms) and [How does Constrained Decoding work?](https://outcomeschool.com/blog/constrained-decoding)
 - How do you handle long contexts efficiently in production (context compression, prefix caching)?
   - Answer: [How does Prompt Caching work?](https://outcomeschool.com/blog/how-does-prompt-caching-work) and [How does context compaction work?](https://outcomeschool.com/blog/how-does-context-compaction-work)
 - What is semantic routing, and how do you implement it in a multi-model system?
