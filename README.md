@@ -821,6 +821,8 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
   - Answer: [Design a Real-Time Voice AI Agent](https://outcomeschool.com/blog/design-a-real-time-voice-ai-agent), [What is turn-taking in a voice AI agent?](https://outcomeschool.com/blog/what-is-turn-taking-in-a-voice-ai-agent) and [What is barge-in in a voice AI agent?](https://outcomeschool.com/blog/what-is-barge-in-in-a-voice-ai-agent)
 - Cascaded ASR + LLM + TTS vs native speech-to-speech models: what are the trade-offs?
   - Answer: [Design a Real-Time Voice AI Agent](https://outcomeschool.com/blog/design-a-real-time-voice-ai-agent) and [Cascaded vs Speech-to-Speech: How to choose the right voice agent architecture?](https://outcomeschool.com/blog/cascaded-vs-speech-to-speech)
+- What is the difference between half-duplex and full-duplex voice agents?
+  - Answer: [How do half-duplex and full-duplex voice agents differ?](https://outcomeschool.com/blog/half-duplex-vs-full-duplex-voice-agents)
 - What is multi-modal RAG, and how does it differ from text-only RAG?
 - How do you build a system that processes both images and text?
   - Answer: [Multimodal AI](https://outcomeschool.com/blog/multimodal-ai)
