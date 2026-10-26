@@ -185,7 +185,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - Your distilled student model fails on the complex reasoning that the teacher model handled. How do you close the gap?
 - After RLHF alignment, your LLM became safer but lost capability on hard tasks. How do you manage the alignment tax?
 - Your RLHF-trained LLM is gaming the reward model instead of being genuinely helpful. How do you fix reward hacking?
-  - Answer: [Reinforcement Learning from Human Feedback (RLHF)](https://outcomeschool.com/blog/reinforcement-learning-from-human-feedback-rlhf)
+  - Answer: [Reinforcement Learning from Human Feedback (RLHF)](https://outcomeschool.com/blog/reinforcement-learning-from-human-feedback-rlhf) and [What is Reward Hacking in Reinforcement Learning and How Do We Prevent It?](https://outcomeschool.com/blog/reward-hacking)
 - Your chatbot loses context after 10 turns in a conversation. How do you maintain a long conversation context?
   - Answer: [AI Agent Memory](https://outcomeschool.com/blog/ai-agent-memory)
 - Your chatbot fails when users switch topics mid-conversation. How do you handle topic switches?
