@@ -770,6 +770,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - How do you build trust with users in AI-powered applications?
 - What are adversarial attacks on AI systems, and how do you defend against them?
 - What is data poisoning, and how can it affect AI models?
+  - Answer: [What is data poisoning in AI?](https://outcomeschool.com/blog/data-poisoning)
 - How do you implement content safety filters for AI-generated content?
   - Answer: [How do LLM guardrails work?](https://outcomeschool.com/blog/how-do-llm-guardrails-work)
 - What is responsible AI, and what frameworks exist for implementing it?
