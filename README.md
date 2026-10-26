@@ -407,6 +407,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - How do you implement state management in complex agent workflows?
   - Answer: [How does LangGraph work?](https://outcomeschool.com/blog/how-does-langgraph-work)
 - How do you build a customer support agent with escalation logic?
+  - Answer: [How does a voice agent transfer a call to a human with context?](https://outcomeschool.com/blog/call-transfer-with-context)
 - What is agent orchestration, and how do you implement it?
   - Answer: [AI Orchestration](https://outcomeschool.com/blog/ai-orchestration)
 - What is Sakana Fugu, and how does it orchestrate a team of AI models?
