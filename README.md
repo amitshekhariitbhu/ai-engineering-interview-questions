@@ -114,7 +114,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - What is Generative AI?
   - Answer: [What is Generative AI?](https://outcomeschool.com/blog/what-is-generative-ai)
 - What is the context window in LLMs, and why does it matter?
-  - Answer: [Context Window in LLMs](https://www.linkedin.com/posts/amit-shekhar-iitbhu_the-context-window-is-the-llms-working-memory-activity-7437754426175672320-MH9c)
+  - Answer: [Context Window in LLMs](https://www.linkedin.com/posts/amit-shekhar-iitbhu_the-context-window-is-the-llms-working-memory-activity-7437754426175672320-MH9c) and [How does the Context Window work?](https://outcomeschool.com/blog/context-window)
 - Why is the context window limited in LLMs?
   - Answer: [Why is the context window limited in LLMs?](https://www.youtube.com/watch?v=CGIhxIaOg3M&lc)
 - What is temperature in the context of LLMs, and how does it affect output?
