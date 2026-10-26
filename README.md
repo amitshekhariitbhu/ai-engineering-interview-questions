@@ -877,6 +877,8 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
   - Answer: [Why does phone audio make speech recognition worse?](https://outcomeschool.com/blog/phone-audio-and-speech-recognition)
 - How do you detect whether an outbound call was answered by a human or a voicemail?
   - Answer: [How does voicemail and answering machine detection work?](https://outcomeschool.com/blog/answering-machine-detection)
+- How do you evaluate a voice AI agent? What metrics do you track?
+  - Answer: [How do you evaluate a voice AI agent?](https://outcomeschool.com/blog/voice-agent-evaluation)
 - What is multi-modal RAG, and how does it differ from text-only RAG?
 - How do you build a system that processes both images and text?
   - Answer: [Multimodal AI](https://outcomeschool.com/blog/multimodal-ai)
