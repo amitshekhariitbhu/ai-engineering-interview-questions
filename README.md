@@ -171,6 +171,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - Why do modern Transformers use Pre-LayerNorm (Pre-Norm) instead of Post-LayerNorm?
   - Answer: [RMSNorm (Root Mean Square Layer Normalization)](https://outcomeschool.com/blog/rmsnorm-root-mean-square-layer-normalization)
 - What are scaling laws (Chinchilla), and how do they guide model size vs training data decisions?
+  - Answer: [What are the Chinchilla scaling laws?](https://outcomeschool.com/blog/chinchilla-scaling-laws)
 - Your LLM keeps ignoring your instructions. How do you make it follow structured output formats?
 - Your LLM-powered tool hits the context window limit on long documents. How do you handle it?
 - Your LLM does not admit when it does not know the answer. How do you make it say "I don't know"?
