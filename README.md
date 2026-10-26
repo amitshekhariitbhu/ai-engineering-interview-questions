@@ -452,6 +452,8 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
   - Answer: [Decoding InstructGPT](https://outcomeschool.com/blog/decoding-instructgpt) and [How does Pretraining work?](https://outcomeschool.com/blog/llm-pretraining)
 - What is RLHF (Reinforcement Learning from Human Feedback), and how is it used to align LLMs?
   - Answer: [Reinforcement Learning from Human Feedback (RLHF)](https://outcomeschool.com/blog/reinforcement-learning-from-human-feedback-rlhf)
+- What is a reward model, and how is it trained?
+  - Answer: [What is a Reward Model and How Is It Trained?](https://outcomeschool.com/blog/reward-model)
 - What is Deep RL from Human Preferences, the paper that started RLHF?
   - Answer: [Deep RL from Human Preferences](https://outcomeschool.com/blog/decoding-deep-rl-from-human-preferences)
 - Why did DPO displace PPO-based RLHF at many labs? When is online RL still better?
