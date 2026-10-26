@@ -449,7 +449,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - What is adapter-based fine-tuning?
   - Answer: Explained in this video: [AI Engineering Explained: LLM, RAG, MCP, Agent, Fine-Tuning, Quantization](https://www.youtube.com/watch?v=lnfWvX66FUk)
 - Explain the difference between pre-training, supervised fine-tuning (SFT), and preference optimization (RLHF/DPO).
-  - Answer: [Decoding InstructGPT](https://outcomeschool.com/blog/decoding-instructgpt)
+  - Answer: [Decoding InstructGPT](https://outcomeschool.com/blog/decoding-instructgpt) and [How does Pretraining work?](https://outcomeschool.com/blog/llm-pretraining)
 - What is RLHF (Reinforcement Learning from Human Feedback), and how is it used to align LLMs?
   - Answer: [Reinforcement Learning from Human Feedback (RLHF)](https://outcomeschool.com/blog/reinforcement-learning-from-human-feedback-rlhf)
 - What is Deep RL from Human Preferences, the paper that started RLHF?
