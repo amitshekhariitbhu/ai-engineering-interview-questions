@@ -479,6 +479,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - What is the difference between SFT (Supervised Fine-Tuning) and alignment training?
   - Answer: [Decoding InstructGPT](https://outcomeschool.com/blog/decoding-instructgpt)
 - What is RLAIF (RL from AI Feedback), and how does it differ from RLHF?
+  - Answer: [What is RLAIF? Reinforcement Learning from AI Feedback Explained](https://outcomeschool.com/blog/reinforcement-learning-from-ai-feedback-rlaif)
 - What is Constitutional AI, and how does it differ from RLHF?
 - What is RLVR (Reinforcement Learning with Verifiable Rewards), and when does it beat a learned reward model?
   - Answer: [Group Relative Policy Optimization (GRPO)](https://outcomeschool.com/blog/group-relative-policy-optimization-grpo)
