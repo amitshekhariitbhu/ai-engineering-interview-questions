@@ -497,7 +497,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
   - Answer: [What is Contrastive Learning?](https://outcomeschool.com/blog/contrastive-learning)
 - What is the difference between sparse and dense embeddings?
 - Explain cosine similarity, dot product, and Euclidean distance for vector search.
-  - Answer: [How does a Vector Database work?](https://outcomeschool.com/blog/how-does-a-vector-database-work)
+  - Answer: [How does a Vector Database work?](https://outcomeschool.com/blog/how-does-a-vector-database-work) and [How does Cosine Similarity work?](https://outcomeschool.com/blog/cosine-similarity)
 - What is a vector database, and how does it differ from a traditional database?
   - Answer: [How does a Vector Database work?](https://outcomeschool.com/blog/how-does-a-vector-database-work)
 - How does Approximate Nearest Neighbor (ANN) search work?
