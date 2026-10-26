@@ -841,6 +841,8 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
   - Answer: [How does function calling work in a voice AI agent?](https://outcomeschool.com/blog/function-calling-in-voice-agents)
 - How do you reliably capture structured inputs like dates, phone numbers, and addresses in a voice agent?
   - Answer: [How does a voice agent handle structured inputs like dates, numbers, and addresses?](https://outcomeschool.com/blog/structured-inputs-in-voice-agents)
+- What is SSML, and how do you use it to control how a voice agent speaks?
+  - Answer: [How does SSML control how a voice agent speaks?](https://outcomeschool.com/blog/speech-synthesis-markup-language-ssml)
 - How do you handle speech recognition (ASR) errors in a voice agent?
   - Answer: [How does a voice agent confirm and correct misheard information?](https://outcomeschool.com/blog/confirm-and-correct-in-voice-agents)
 - How do you handle barge-in (user interruptions) in a voice agent?
