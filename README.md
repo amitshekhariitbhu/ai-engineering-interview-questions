@@ -239,6 +239,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - What is ReAct (Reasoning + Acting) prompting, and how does it work?
   - Answer: [ReAct Agent](https://outcomeschool.com/blog/react-agent)
 - What is a system prompt, and how does it influence model behavior?
+  - Answer: [How does the System Prompt work?](https://outcomeschool.com/blog/system-prompt)
 - How do you structure prompts for consistent structured output (JSON, XML)?
 - What is prompt injection, and how do you defend against it?
   - Answer: [Prompt Injection in LLMs](https://outcomeschool.com/blog/prompt-injection-in-llms)
